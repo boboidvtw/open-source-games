@@ -1,8 +1,10 @@
 # Open source games
 
 <p>
-  <a href="README.md">繁體中文</a> · <b>English</b>
+  <a href="README.md">繁體中文</a> · <b>English</b> · <a href="https://github.com/bobeff/open-source-games">Upstream (bobeff/open-source-games)</a>
 </p>
+
+> 💡 **Note**: This repository ([`boboidvtw/open-source-games`](https://github.com/boboidvtw/open-source-games)) is a Traditional Chinese (`zh-TW`) localization fork of the upstream **[bobeff/open-source-games](https://github.com/bobeff/open-source-games)** repository. See [`README.md`](README.md) for the localized Traditional Chinese edition.
 
 This is a list of different open-source video games and commercial video games open-source remakes.
 

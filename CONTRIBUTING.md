@@ -1,5 +1,7 @@
 # 貢獻指南 (Contribution Guidelines)
 
+> 💡 **上游來源說明**：本儲存庫（[`boboidvtw/open-source-games`](https://github.com/boboidvtw/open-source-games)）是引用上游倉庫 **[bobeff/open-source-games](https://github.com/bobeff/open-source-games)** 進行繁體中文化（台灣正體中文）的版本。若您希望向原始英文清單提交新遊戲，請前往上游倉庫提交 Pull Request；若您想修正繁體中文翻譯或補充在地化說明，歡迎直接在本倉庫提交 PR。以下為翻譯自上游的原始貢獻規範：
+
 * 首先也是最重要的一點，這份清單同時也是我的個人精選書籤，因此只有當提交的遊戲引起我的興趣時，我才會將其加入清單中。如果您有不同的想法，隨時歡迎 Fork 本儲存庫自行維護。
 
 * 請先確認您要提交的遊戲尚未收錄於清單中。

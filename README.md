@@ -1,12 +1,14 @@
 # 開源遊戲精選清單 (Open Source Games)
 
 <p>
-  <b>繁體中文</b> · <a href="README.en.md">English</a>
+  <b>繁體中文</b> · <a href="README.en.md">English</a> · <a href="https://github.com/bobeff/open-source-games">上游倉庫 (bobeff/open-source-games)</a>
 </p>
+
+> 💡 **繁體中文化版本說明**：本儲存庫（[`boboidvtw/open-source-games`](https://github.com/boboidvtw/open-source-games)）係引用自上游開源倉庫 **[bobeff/open-source-games](https://github.com/bobeff/open-source-games)** 進行完整**繁體中文化（台灣正體中文 `zh-TW`）**之維護版本。原始清單架構與收錄項目歸功於上游作者 [@bobeff](https://github.com/bobeff) 與所有貢獻者；本分支在完整保留上游條目的基礎上，提供台灣慣用遊戲譯名對照、引擎與技術術語在地化、雙語文件切換（[英文原版 `README.en.md`](README.en.md)）以及失效／誤植連結修正。
 
 ## 📖 關於本專案 (About)
 
-這是一份精心整理的**開源電子遊戲（Open-Source Video Games）**與**經典商業遊戲開源重製版／引擎移植版（Open-Source Remakes & Source Ports）**清單，完整繁體中文化（台灣慣用譯名與術語），方便華語玩家與遊戲開發者探索、遊玩及研究各大經典遊戲的原始碼與現代引擎架構。
+這是一份精心整理的**開源電子遊戲（Open-Source Video Games）**與**經典商業遊戲開源重製版／引擎移植版（Open-Source Remakes & Source Ports）**清單，引用自上游 [bobeff/open-source-games](https://github.com/bobeff/open-source-games) 並完成全篇繁體中文化（台灣慣用譯名與術語），方便華語玩家與遊戲開發者探索、遊玩及研究各大經典遊戲的原始碼與現代引擎架構。
 
 ## 目錄
 
@@ -28,6 +30,7 @@
 - [塔防遊戲](#塔防遊戲)
 - [回合制策略遊戲](#回合制策略遊戲)
 - [其他相關清單](#其他相關清單)
+- [上游來源與致謝](#上游來源與致謝)
 
 ## 動作遊戲
 
@@ -460,6 +463,12 @@
 - **[Wikipedia list open-source video games](https://en.wikipedia.org/wiki/List_of_open-source_video_games)** - 維基百科開源電子遊戲列表
 
 ---
+
+## 🙏 上游來源與致謝
+
+- **上游原始倉庫 (Upstream Repository)**：[bobeff/open-source-games](https://github.com/bobeff/open-source-games)（由 [@bobeff](https://github.com/bobeff) 策展維護）
+- **繁體中文化維護 (Traditional Chinese Localization)**：[boboidvtw/open-source-games](https://github.com/boboidvtw/open-source-games)
+- **授權條款 (License)**：遵循上游 [CC0-1.0 授權條款](LICENSE)
 
 ## ❤️ 贊助與支持 (Sponsor & Support)
 
